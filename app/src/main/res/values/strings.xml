@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Die Roll</string>
+    <string name="label_roll">Roll</string>
+    <string name="content_description_die_side_1">Side one of the die.</string>
+    <string name="content_description_die_side_2">Side two of the die.</string>
+    <string name="content_description_die_side_3">Side three of the die.</string>
+    <string name="content_description_die_side_4">Side four of the die.</string>
+    <string name="content_description_die_side_5">Side five of the die.</string>
+    <string name="content_description_die_side_6">Side six of the die.</string>
+</resources>
